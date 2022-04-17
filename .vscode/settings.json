@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "debug.console.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "explorer.autoReveal": false
+}
